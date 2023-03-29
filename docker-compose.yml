@@ -1,0 +1,14 @@
+﻿version: '3'
+
+services:
+  keybrecher:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # the port the app is running in the docker environment is 5000 and the port on the host machine is 8080
+      # so to test our webapp, we need to go to http://localhost:8080
+    ports:
+      - '8080:5000'
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    image: vdragomi/key-vault:latest

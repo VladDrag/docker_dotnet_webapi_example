@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{69AAA233-E1BE-4C0F-BF56-F151AEA8EE43}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
+    <Files>
+      <File FileName="Program.cs" Line="34" Column="1" />
+      <File FileName=".dockerignore" Line="1" Column="1" />
+      <File FileName="Dockerfile.txt" Line="15" Column="1" />
+      <File FileName="docker-compose.yml" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VaultBrecher" expanded="True">
+            <Node name="VaultBrecher" expanded="True">
+              <Node name="docker-compose.yml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VaultBrecher PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
